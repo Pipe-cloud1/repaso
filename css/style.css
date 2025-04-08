@@ -68,3 +68,14 @@ footer {
     width: 360px;
     height: 250px;
 }
+
+#contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    color: #1b04f0;
+    font-family: Arial, sans-self;
+    font-size: 20px;
+    justify-content: center;
+}
